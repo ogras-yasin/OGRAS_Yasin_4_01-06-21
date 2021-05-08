@@ -655,6 +655,9 @@ a {
     font-weight: 400;
     color: black!important;
 }
+.gardasim{
+    color: #000000!important;
+}
 
 .container {
     max-width: 1000px;
